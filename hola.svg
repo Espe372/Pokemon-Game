@@ -1,0 +1,21 @@
+<!-- <svg height="30" width="200" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <a xlink:href="https://www.w3schools.com/graphics/" target="_blank">
+    <text x="0" y="15" fill="red">I love SVG!</text>
+  </a>
+</svg> -->
+<svg height="60" width="400">
+ 
+ </svg>
+<svg height="200" width="200">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon failure</title>
+    <g id="icon-failure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_failure" fill="#BD0021">
+            <path d="M15,-0.0002 C6.716,-0.0002 0,6.7158 0,14.9998 C0,23.2838 6.716,29.9998 15,29.9998 C23.284,29.9998 30,23.2838 30,14.9998 C30,6.7158 23.284,-0.0002 15,-0.0002 M15,1.9998 C22.168,1.9998 28,7.8318 28,14.9998 C28,22.1678 22.168,27.9998 15,27.9998 C7.832,27.9998 2,22.1678 2,14.9998 C2,7.8318 7.832,1.9998 15,1.9998 M20.8398,10.5716 L19.4288,9.1596 L14.9998,13.5886 L10.5718,9.1596 L9.1598,10.5716 L13.5888,14.9996 L9.1598,19.4286 L10.5718,20.8396 L14.9998,16.4106 L19.4288,20.8396 L20.8398,19.4286 L16.4108,14.9996 L20.8398,10.5716 Z" id="Combined-Shape"></path>
+             <text x="0" y="15" fill="red">I love SVG!</text>
+        </g>
+    </g>
+</svg>
